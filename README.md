@@ -12,7 +12,8 @@ Script uses python "imaplib" to create a payload on the email account that fetch
 ## For Terminal Usage
 ### Requirements
 - Existing Whatsapp Library (Your Current Whatsapp Automation Program)
-- Python 3 
+- Python 3
+- Email With Imap Sever Connection (Use Your Current Email Provider)
 
 ```linux
 git clone https://github.com/Moabifokotsane/sendemailtowhatsapp
