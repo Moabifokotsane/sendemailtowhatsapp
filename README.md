@@ -22,8 +22,9 @@ sudo python3 checkemails.py
 
 # For Whatsapp intergration 
 ### Use Existing Whatsapp library With:
+
 ```Python
-checkemails.py
+sudo nano checkemails.py
 ```
 
-
+then insert your Whatsapp System Code into the script.
