@@ -5,6 +5,9 @@
 # sendemailtowhatsapp
 Sending new emails to a whatsapp number. This will go through email account and fetch new incoming emails then send straight to a whatsapp number using a payload connection via the email account. it will take the email subject and body content and send them to a whatsapp number for alerts &amp; monitoring
 
+### Technical
+Script uses python "imaplib" to create a payload on the email account that fetches new emails in the account inbox then scans the email subject and body to send the email subject and content to your whatsapp number.
+
 # How to install 
 ## For Terminal Usage
 ### Requirements
