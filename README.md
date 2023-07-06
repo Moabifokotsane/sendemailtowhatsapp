@@ -20,7 +20,11 @@ git clone https://github.com/Moabifokotsane/sendemailtowhatsapp
 cd sendemailtowhatsapp
 sudo python3 checkemails.py 
 ```
-
+# For Email intergration
+### Insert Your e-mail Imap Login Credentials
+```python
+sudo nano checkemails.py
+```
 # For Whatsapp intergration 
 ### Use Existing Whatsapp library With:
 
