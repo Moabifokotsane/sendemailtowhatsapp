@@ -4,4 +4,4 @@ Sending email subject and body content to WhatsApp number for Faster alerts &amp
 ## How to install 
 ```linux
 git clone https://github.com/Moabifokotsane/sendemailtowhatsapp
-``
+```
