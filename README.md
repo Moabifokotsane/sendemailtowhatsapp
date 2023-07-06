@@ -18,6 +18,9 @@ sudo python3 checkemails.py
 ```
 
 # For Whatsapp intergration 
-### Use Your own prefferd whatsapp library and insert your existing whatsapp library code that sends messages to your whatsapp in the checkemails.py code.
+### Use Existing Whatsapp library With:
+```Python
+checkemails.py
+```
 
 
